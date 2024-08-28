@@ -1,5 +1,7 @@
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-# Date: 05/03/2024
+# Date: 28/08/2024
+# Name: Ragul A C
+# Register No:21221240042
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
