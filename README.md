@@ -14,7 +14,7 @@ To perform regular differncing,seasonal adjustment and log transformation on mea
 5. ADF Test: Test stationarity using the ADF test.
 6. Visualize Differenced Data: Plot the differenced log-transformed data.
 ### PROGRAM:
-## Regular Differencing
+
 ```
 import pandas as pd
 import numpy as np
