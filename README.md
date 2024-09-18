@@ -1,6 +1,6 @@
 ### Date: 28/08/2024
 ### Name: Ragul A C
-### Register No:21221240042
+### Register No:212221240042
 
 ## Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
 
